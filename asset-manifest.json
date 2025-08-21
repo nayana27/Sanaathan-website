@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sanaathan-website/static/css/main.3ebe5590.css",
+    "main.js": "/Sanaathan-website/static/js/main.3c73584a.js",
+    "static/media/banner.jpg": "/Sanaathan-website/static/media/banner.00bddbb1c55b2596a3f2.jpg",
+    "static/media/greenleaf.jpg": "/Sanaathan-website/static/media/greenleaf.33f744f5a347b94dd172.jpg",
+    "index.html": "/Sanaathan-website/index.html",
+    "main.3ebe5590.css.map": "/Sanaathan-website/static/css/main.3ebe5590.css.map",
+    "main.3c73584a.js.map": "/Sanaathan-website/static/js/main.3c73584a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ebe5590.css",
+    "static/js/main.3c73584a.js"
+  ]
+}
